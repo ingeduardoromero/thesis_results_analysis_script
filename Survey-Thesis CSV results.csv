@@ -1,0 +1,12 @@
+Role,Sector,1. Have AI enabled tools changed the level of autonomy I have in making key decisions within my role?    ,2. Have the boundaries of decision ownership in my team become less clear since the introduction of AI systems?,3. Have AI output artifacts influenced which decisions are escalated to higher management?,4. Does my organization have explicit criteria for determining when AI systems can make or suggest decisions autonomously?,"5. Has the distribution of decision making among Engineering managers, Product Managers and Staff Engineers shifted due AI adoption in my company?",6. Have AI driven artifacts made communication easier among leadership position roles in my organization?,7. Has the use of AI generated summaries or reports improved the clarity of cross functional communication from leadership?,8. Has gen AI content reduced the need for direct human interaction among leadership members?,9. Do I trust gen AI communications to accurately represent the intent and context of the expected messages?,"10. Has the frequency and format of coordination among product, engineering and leadership changed since the introduction of gen AI artifacts/tools?","11. When AI-supported decisions have led to issues, its responsibility for outcomes is clearly assigned within my organization?",12. The presence of AI systems has increased uncertainty about who is accountable for critical decisions.,13. My organization maintains transparent records explaining how AI assisted decisions are made.,14. There are formal escalation procedures when AI assisted recommendations conflict with human judgement,15. The introduction of AI decision support has strengthened overall accountability across leadership roles.
+Staff Engineer/ Technical Leader,Regulated,5,2,2,2,1,3,3,3,2,3,3,2,1,4,3
+Engineering Manager,Fintech,2,1,2,1,2,1,1,1,1,1,1,2,1,1,1
+Staff Engineer/ Technical Leader,Fintech,2,3,2,2,5,5,5,2,3,5,2,2,2,2,4
+Product Manager/Owner,Regulated,4,2,2,2,2,4,4,2,5,2,4,2,2,4,5
+Engineering Manager,Fintech,5,5,4,1,5,3,2,3,2,4,1,4,1,1,1
+Product Manager/Owner,Fintech,2,2,5,1,3,4,5,5,4,4,2,3,2,2,2
+Engineering Manager,Fintech,3,4,4,2,5,2,4,2,1,4,2,4,2,2,2
+Product Manager/Owner,Fintech,1,1,3,1,1,5,5,1,3,1,1,1,1,1,3
+Scrum Master,Regulated,4,5,3,3,2,4,5,1,2,3,2,4,1,1,2
+Senior Software Engineer,Regulated,3,1,4,4,4,4,5,4,4,4,3,4,3,4,4
+Product Manager/Owner,Fintech,3,1,2,5,2,3,3,1,3,2,3,1,2,2,2
